@@ -17,7 +17,6 @@ As a coach
 So I can get to know all students
 I want to see a list of students' cohorts.
 ```
-
 ```
 Nouns:
 
